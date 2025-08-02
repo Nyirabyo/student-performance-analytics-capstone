@@ -20,4 +20,4 @@ This project analyzes the impact of study habits, absences, and failures on fina
 - Interactive Power BI dashboard
 
 ## Author
-Gabin NIYONIZEYE (AUCA, 2025)
+Gabin NIYONIZEYE (AUCA(StId:26653), 2025)
