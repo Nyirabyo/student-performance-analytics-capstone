@@ -15,9 +15,9 @@ This project analyzes the impact of study habits, absences, and failures on fina
 - Failures
 
 ## Deliverables
-- Data cleaning and EDA in Python
+- Data cleaning and EDA in Python(
 - Predictive linear regression model
-- Interactive Power BI dashboard
+- Interactive Power BI dashboard(https://github.com/Nyirabyo/student-performance-analytics-capstone/blob/main/dashboard.pbix)
 
 ## Author
 Gabin NIYONIZEYE (AUCA, 2025)
